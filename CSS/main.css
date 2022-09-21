@@ -9,6 +9,8 @@ body{
 
 #nav-name{
     margin-left: 0px;
+    display: flex;
+    align-items: flex-start;
 }
 
 nav li{
